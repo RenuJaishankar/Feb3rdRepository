@@ -1,0 +1,49 @@
+#grapefruit{
+    border-radius:10 px 10px 10 px 10 px; /* This is for making it a circle */
+    /* width:100vw; */
+     width:20%; 
+}
+
+#apple{
+    border-radius:10 px 10px 10 px 10 px; /* This is for making it a circle */
+    /* width:100vw; */
+     width:20%; 
+}
+#orange{
+    border-radius:10 px 10px 10 px 10 px; /* This is for making it a circle */
+    /* width:100vw; */
+     width:20%; 
+}
+.myspan{
+color:blueviolet;
+display:block;
+text-align:left;
+
+}
+.text{
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:2rem;
+    padding:10px;
+}
+
+.myheader{
+    padding:10px;
+    height:50px;
+    width:100%;
+    color:white;
+    background-color:blue;
+    text-align:center;
+    
+}
+.myfooter{
+    position:fixed;
+    bottom:0;
+    left:0;
+    padding:10px;
+    height:50px;
+    width:100%;
+    color:white;
+    background-color:blueviolet;
+    text-align:center;
+}
